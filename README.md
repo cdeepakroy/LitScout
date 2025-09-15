@@ -1,2 +1,2 @@
-# LitScount
+# LitScout
 Literature review agent
